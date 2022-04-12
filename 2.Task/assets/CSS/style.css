@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container .head-1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    color: #4A4A4A;
+}
+
+.container .head-box-2 {
+    font-family: Sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    margin: 0;
+}
+
+
+.container .image-head img{
+    width: 104px;
+    height: 3px;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin: 30px 0;
+}
+
+.container-box{
+    margin: 0 244px;
+    height: 300px;
+    border: 2px dashed;
+}
